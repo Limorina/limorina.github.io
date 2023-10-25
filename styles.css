@@ -23,5 +23,13 @@ div {
 }
 summary {
         font-family: "Segoe UI", sans-serif;
-        font-weight: italic;
+        font-weight: normal;
+}
+div_margin {
+    border: 1px solid black;
+    margin-top: 500px;
+    margin-bottom: 500px;
+    margin-right: 550px;
+    margin-left: 2500px;
+    background-color: lightblue;
 }
