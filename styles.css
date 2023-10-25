@@ -22,3 +22,17 @@ blockquote {
 	margin: 1em 0;
 	padding: 0 40px;
 }
+#coordinates {
+	position: absolute;
+	top: 0;
+	right: 0;
+	float: right;
+	margin: 0;
+	padding: 0;
+	line-height: 1.5em;
+	text-align: right;
+	text-indent: 0;
+	font-size: 85%;
+	text-transform: none;
+	white-space: nowrap;
+}
