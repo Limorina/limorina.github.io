@@ -19,12 +19,11 @@ a {
 }
 
 div {
-    margin-top: 300px;
-    margin-bottom: 300px;
+    margin-top: 100px;
+    margin-bottom: 100px;
     margin-right: 350px;
     margin-left: 180px;
     padding: 0 0 0 20px;
-    background-color: lightblue;
 }
 
 summary {
