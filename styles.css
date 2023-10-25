@@ -1,0 +1,24 @@
+h1 {
+    font-family: "Segoe UI", sans-serif;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: "Segoe UI", sans-serif;
+    font-weight: semibold;
+}
+
+p {
+    font-family: "Segoe UI", sans-serif;
+    font-weight: normal;
+}
+
+a {
+    font-family: "Segoe UI", sans-serif;
+    font-weight: normal;
+}
+
+summary {
+        font-family: "Segoe UI", sans-serif;
+        font-weight: normal;
+}
