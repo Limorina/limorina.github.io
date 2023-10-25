@@ -17,3 +17,8 @@ a {
     font-family: "Bahnschrift", sans-serif;
     font-weight: normal;
 }
+blockquote {
+	overflow: hidden;
+	margin: 1em 0;
+	padding: 0 40px;
+}
