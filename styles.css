@@ -19,7 +19,12 @@ a {
 }
 
 div {
-    width: 2000px;
+    border: 1px solid black;
+    margin-top: 300px;
+    margin-bottom: 300px;
+    margin-right: 350px;
+    margin-left: 180px;
+    background-color: lightblue;
 }
 
 }
