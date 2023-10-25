@@ -18,6 +18,13 @@ a {
     font-weight: normal;
 }
 
+p {
+margin-top: 100px;
+margin-bottom: 100px;
+margin-right: 350px;
+margin-left: 350px;
+}
+
 summary {
         font-family: "Segoe UI", sans-serif;
         font-weight: normal;
