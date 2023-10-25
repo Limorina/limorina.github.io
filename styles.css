@@ -21,3 +21,7 @@ a {
 div{
     width: 300px;
 }
+summary {
+        font-family: "Segoe UI", sans-serif;
+        font-weight: italic;
+}
