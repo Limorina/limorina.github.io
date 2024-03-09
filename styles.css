@@ -2,6 +2,13 @@ body {
   margin: 0;
   font-family: Bahnschrift, sans-serif;
 }
+.header {
+  background-color: #000; /* Màu nền của khung đen */
+  color: #fff; /* Màu chữ của tiêu đề */
+  padding: 20px;
+  text-align: center;
+  cursor: pointer; /* Chuyển đổi con trỏ khi di chuột vào tiêu đề */
+}
 .topnav {
     overflow: hidden;
     background-color: #e9e9e9;
