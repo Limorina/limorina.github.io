@@ -51,19 +51,7 @@ footer {
   color: #000;
 }
 
-nav{
-            background-color:#B31942;
-        }
-        nav a{
-            display:inline-block;
-            padding:10px;
-            font-size:20px;
-            color:#fff;
-            text-decoration:none;
-        }
-        nav a:hover{
-            background-color:#333;
-        }
+
 @media screen and (max-width: 600px) {
     .topnav a,
     .topnav input[type="text"] {
