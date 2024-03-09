@@ -20,36 +20,29 @@ body {
   margin: 0;
 }
 
-
-.topnav {
-    overflow: hidden;
-    background-color:#B31942;
+form {
+    display: inline-block;
 }
 
-.topnav a{
-            display:inline-block;
-            padding:10px;
-            font-size:20px;
-            color:#fff;
-            text-decoration:none;
-        }
-
-.topnav a:hover{
-            background-color:#333;
-        }
-
-.topnav a.active {
-    background-color: #2196F3;
-    color: white;
+input[type="text"] {
+    padding: 5px;
+    font-size: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
 }
 
-.topnav input[type="text"] {
-    float: right;
-    padding: 6px;
-    margin-top: 8px;
-    margin-right: 16px;
-    border: none;
-    font-size: 17px;
+button {
+    padding: 5px 10px;
+    font-size: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    color: #333;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ddd;
 }
 
 @media screen and (max-width: 600px) {
