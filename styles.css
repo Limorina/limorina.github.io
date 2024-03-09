@@ -45,6 +45,13 @@ button:hover {
     background-color: #ddd;
 }
 
+footer {
+  text-align: center;
+  background-color: #fff;
+  color: #000;
+}
+
+
 @media screen and (max-width: 600px) {
     .topnav a,
     .topnav input[type="text"] {
