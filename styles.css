@@ -7,7 +7,7 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  margin: 0 300px; /* Khoảng cách 300px giữa hai bên */
+  margin: 0 150px; /* Khoảng cách 300px giữa hai bên */
 }
 .header {
   background-color: #000; /* Màu nền của khung đen */
